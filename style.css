@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'TheBeast';
+    font-style: normal;
+    font-weight: normal;
+    src: url('./fonts/earthorbiter.ttf ') format('truetype');
+  }
+
+
+body {
+font-family: 'TheBeast';
+font-size: 18px;
+}
